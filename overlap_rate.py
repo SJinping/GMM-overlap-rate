@@ -91,6 +91,8 @@ class BiGauss(object):
 
 if __name__ == '__main__':
 
+    # The following examples are also presented in paper
+
     # Single sample
     # you can change whatever data you like
     pi1 = 0.5
